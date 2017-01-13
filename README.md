@@ -1,3 +1,3 @@
 # MiraclePill
-Miracle Pill app 
+Miracle Pill ios app 
 ### Heading
